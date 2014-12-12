@@ -11,3 +11,14 @@
  *= require_self
  *= require_tree .
  */
+
+
+$navbar-default-bg: #FF00FF;
+@import "bootstrap-sprockets";
+@import "bootstrap";
+
+$navbar-default-bg: #FF00FF;
+
+.tim-container {
+	background-color: #F3F2EA;
+}

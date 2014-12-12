@@ -16,6 +16,11 @@ end
 
 # Added/Modified by Me:
 
+gem "therubyracer"
+gem "less-rails"
+gem 'bootstrap-sass', '~> 3.3.1'
+gem 'autoprefixer-rails'
+
 group :development, :test do
 	gem "rspec-rails", "3.1.0"
 	gem 'sqlite3', '1.3.10'
