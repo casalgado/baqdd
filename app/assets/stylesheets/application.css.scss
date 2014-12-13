@@ -21,9 +21,13 @@ $navbar-default-bg: #FF00FF;
 
 .tim-container {
 	background-color: #F3F2EA;
+}
+
+.width100 {
 	width: 100%;
 }
 
-.site-wrapper {
-	width: 100%;
+.container-full {
+  margin: 0 auto;
+  width: 100%;
 }
