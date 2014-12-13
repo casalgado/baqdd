@@ -13,3 +13,22 @@
 	padding: 0px 0px 0px 0px;
 	text-align: center;
 }
+
+.profiles-header {
+
+	p, h1 {
+		max-width: 650px;
+		min-width: 350px;
+		margin-left: auto;
+		margin-right: auto;
+	}
+
+	p {
+		margin-bottom: 50px;
+	}
+} 
+
+.back-color {
+	background-color: #F3F2EA;
+	margin-bottom: -50px;
+}
