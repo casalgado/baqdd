@@ -808,8 +808,8 @@ pre code {
 }
 
 .row {
-  margin-right: 0px;
-  margin-left: 0px;
+  margin-right: 1px;
+  margin-left: 1px;
 }
 
 .row:before,
